@@ -1,0 +1,48 @@
+body {
+  height: 100%
+  margin: 0;
+  text-align: center;
+  width: auto;
+}
+
+header {
+  padding: 30px;
+}
+
+header h1 {
+  font-family: 'Dancing Script', cursive;
+  color: darkred;
+  font-size: 75px;
+  font-weight: 400;
+  margin: auto;
+}
+
+header h3 {
+  border: 2px solid #fff
+  text-align:center;
+  font-family: 'Dancing Script', cursive;
+  color: darksalmon;
+  font-size: 25px
+}
+
+section .images img {
+  margin: 0 0 40px;
+  padding: 0 20px;
+  width: 100%
+}
+
+footer .nav h2 {
+  text-align:left;
+  font-family: 'Oswald', sans-serif;
+  color: darksalmon;
+  padding: 0 20px;
+  margin: 0;
+}
+
+footer .nav ul {
+  text-align:left;
+  font-family: 'Oswald', sans-serif;
+  color: darksalmon;
+  padding: 0 20px;
+  margin: 0;
+}
